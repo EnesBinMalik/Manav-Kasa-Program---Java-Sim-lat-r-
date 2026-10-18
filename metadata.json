@@ -1,0 +1,6 @@
+{
+  "name": "Manav Kasa Programı - Java Simülatörü",
+  "description": "Enes Öztürk imzalı Java Manav Kasa Programı. Canlı Java konsol simülatörü, dijital kasa tezgâhı, fiş dökümü ve temiz Java kaynak kodu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
